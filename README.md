@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👋
 
 👋 Hi there! I'm Anna Matvieieva
 
@@ -22,5 +22,5 @@ Outside of coding:
 🌱 Adapting, growing, and turning challenges into opportunities
 
 🚀 Let's connect!
-🌐 LinkedIn
-📬 Reach me at [avmatvieieva@gmail.com]
+🌐 [Linkedin](www.linkedin.com/in/anna-matvieieva-6aa946246)
+📬 Reach me at: [Email](avmatvieieva@gmail.com)
