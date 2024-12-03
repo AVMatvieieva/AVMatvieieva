@@ -27,7 +27,7 @@
 
 #### Python
 
-  - [Olympic Games](data-science-portfolio/projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
+  - [Olympic Games](https://github.com/AVMatvieieva/data-science-portfolio/blob/main/projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
 
 #### SQL
 
