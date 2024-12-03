@@ -1,25 +1,37 @@
-## About me 👋
+# Data scientist
 
-👋 Hi there! I'm Anna Matvieieva
+## Skills
+- Programming: Python, SQL
+- Tools: Jupyter, Pandas,  NumPy, Matplotlib
+- Data Visualization: Tableau, Power BI
+- Machine Learning: classification, regression, clustering
+  
+## Education
+### Data science
+  Bootcamp of the Data Science Institute of Fabian Rappert in Berlin
+  09/2024 - 03/2025
 
-💻 Aspiring Data Analyst & Future Data Wizard
-🔍 Turning raw data into meaningful insights one query at a time.
+### Software development
+  IT Step Academia, Odessa
+  09/2020 – 04/2022
 
-A little about me:
-🌟 Data Science Bootcamp Graduate (March 2025)
-📊 Passionate about Python, SQL, and data visualization tools like Power BI & Tableau.
-🎯 On a mission to make data-driven decisions smarter, faster, and more impactful.
-🌍 Lifelong learner: Took my German skills from zero to C1 in two years while diving deep into Data Science.
+### Master's degree in banking
+  Odessa State University of Economics
+  09/2010 – 06/2011
 
-What I love doing:
-✨ Building clean, insightful dashboards
-⚙️ Exploring data structures and optimizing workflows
-🧠 Learning about AI & Machine Learning
+### Bachelor's degree in business administration
+  Odessa State University of Economics
+  09/2006 – 08/2010
 
-Outside of coding:
-📚 Always curious about new tech
-🎨 Creativity enthusiast—thinking outside the box is my thing
-🌱 Adapting, growing, and turning challenges into opportunities
+## Projects
+
+#### Python
+
+  - [Olympic Games](data-science-portfolio/projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
+
+#### SQL
+
+#### Tableau
 
 🚀 Let's connect!
 🌐 [Linkedin](www.linkedin.com/in/anna-matvieieva-6aa946246)
