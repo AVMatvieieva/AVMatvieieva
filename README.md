@@ -28,7 +28,7 @@
 #### Python
 
   - [Olympic Games](https://github.com/AVMatvieieva/data-science-portfolio/blob/main/projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
-  - [AutoScout24](https://github.com/AVMatvieieva/AutoScout24): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
+  - [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
 
 #### SQL
 
