@@ -8,6 +8,7 @@
   
 ## Education
 ### Data science
+  Daten- und Prozessanalyse mit Python - Data Science Kompaktkurs
   Bootcamp of the Data Science Institute of Fabian Rappert in Berlin
   09/2024 - 03/2025
 
@@ -32,6 +33,7 @@
 #### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
   - Python
   - Power BI
+  - Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor
 
 
 
