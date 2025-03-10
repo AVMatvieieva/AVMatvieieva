@@ -26,7 +26,7 @@
 
 ## Projects
 
-####  [Olympic Games]([https://github.com/AVMatvieieva/data-science-portfolio/blob/main/projects/Olympic_Analytic.ipynb](https://github.com/AVMatvieieva/Olympics/blob/main/README.md)): Analysis of the results of the Olympic Games
+####  [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md)): Analysis of the results of the Olympic Games
   #### Technologien und Tools:
   - Datenbank: MySQL
 
