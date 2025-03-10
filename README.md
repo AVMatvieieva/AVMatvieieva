@@ -26,13 +26,23 @@
 
 ## Projects
 
-####  [Olympic Games](https://github.com/AVMatvieieva/data-science-portfolio/blob/main/projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
-  - Python
-  - Tableau
+####  [Olympic Games]([https://github.com/AVMatvieieva/data-science-portfolio/blob/main/projects/Olympic_Analytic.ipynb](https://github.com/AVMatvieieva/Olympics/blob/main/README.md)): Analysis of the results of the Olympic Games
+  #### Technologien und Tools:
+  - Datenbank: MySQL
+
+  - Programmiersprachen: Python (pandas, matplotlib, seaborn)
+
+  - Visualisierung: Tableau
+
+  - Datenmanagement: SQL
+ 
   
 #### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
-  - Python
-  - Power BI
+  #### Technologien und Tools:
+  - Programmiersprachen: Python (pandas, matplotlib, seaborn)
+
+  - Visualisierung: Power BI
+
   - Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor
 
 
