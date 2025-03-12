@@ -1,52 +1,48 @@
-# Data scientist
+# Data scientist / Data Analyst / Economist
 
-## Skills
-- Programming: Python, SQL
-- Tools: Jupyter, Pandas,  NumPy, Matplotlib
-- Data Visualization: Tableau, Power BI
-- Machine Learning: classification, regression, clustering
+## 🛠 Skills
+- 🐍 **Programming:** Python, SQL
+- 🛠 **Tools:** Jupyter Notebook, VS Code, Tableau, Power BI, Excel  
+- 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+- 🤖 **Machine Learning:** Classification, Regression, Clustering
   
-## Education
-### Data science
-  Daten- und Prozessanalyse mit Python - Data Science Kompaktkurs
-  Bootcamp of the Data Science Institute of Fabian Rappert in Berlin
-  09/2024 - 03/2025
+## 🎓 Education
+###  📌 Data Science
+📍 Daten- und Prozessanalyse mit Python — Data Science Bootcamp
+📅 09/2024 - 03/2025 | **Data Science Institute, Berlin**
 
-### Software development
-  IT Step Academia, Odessa
-  09/2020 – 04/2022
+### 💻 Software development
+📍 IT Step Academia, Odessa
+📅 09/2020 – 04/2022
 
-### Master's degree in banking
-  Odessa State University of Economics
-  09/2010 – 06/2011
+### 🎓 Master's Degree in Banking
+📍 **Odessa State University of Economics**
+📅 09/2010 – 06/2011
 
-### Bachelor's degree in business administration
-  Odessa State University of Economics
-  09/2006 – 08/2010
+### 🎓 Bachelor's Degree in Economy and Entrepreneurship
+📍 **Odessa State University of Economics**
+📅 09/2006 – 08/2010
 
-## Projects
+# 📌 Projects
 
-####  [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md): Analysis of the results of the Olympic Games
-  #### Technologien und Tools:
-  - Datenbank: MySQL
+### 🏅 [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md): **Analysis of the results of the Olympic Games**
+#### Technologies and tools:
 
-  - Programmiersprachen: Python (pandas, matplotlib, seaborn)
+🔹 **Database:** MySQL
+🔹 **Languages:** Python (pandas, matplotlib, seaborn)
+🔹 **Visualization:** Tableau
+🔹 **Data Management:** SQL
 
-  - Visualisierung: Tableau
+   ---
+### 🚗 [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): **Vehicle Analysis by AutoScout24 — Case Study with Machine Learning**
+#### Technologies and tools:
 
-  - Datenmanagement: SQL
- 
-  
-#### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
-  #### Technologien und Tools:
-  - Programmiersprachen: Python (pandas, matplotlib, seaborn)
+🔹 **Languages:** Python (pandas, matplotlib, seaborn, streamlit)
+🔹 **Visualization:** Power BI
+🔹 **Machine Learning:** LinearRegression, DecisionTreeRegressor, RandomForestRegressor
 
-  - Visualisierung: Power BI
+## 🚀 Let's Connect!  
 
-  - Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor
+🌐 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anna-matvieieva-6aa946246/)
+📊 **Tableau Public:** [TABLEAU_PUBLIC](https://public.tableau.com/app/profile/anna.matvieieva/vizzes) 
 
-
-
-🚀 Let's connect!
-🌐 [Linkedin](www.linkedin.com/in/anna-matvieieva-6aa946246)
-📬 Reach me at: [Email](avmatvieieva@gmail.com)
