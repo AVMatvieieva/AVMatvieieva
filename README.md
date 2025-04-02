@@ -38,8 +38,18 @@
 #### Technologies and tools:
 
 🔹 **Languages:** Python (pandas, matplotlib, seaborn, streamlit)
+
 🔹 **Visualization:** Power BI
+
 🔹 **Machine Learning:** LinearRegression, DecisionTreeRegressor, RandomForestRegressor
+
+  ---
+### 💰 [German Credit Card](https://github.com/AVMatvieieva/German_Credit_Card/blob/main/README.md): **Credit risk prediction with machine learning**
+#### Technologies and tools:
+
+🔹 **Languages:** Python (pandas, matplotlib, seaborn, streamlit, joblib)
+
+🔹 **Machine Learning:** Logistische Regression, Random Forest, XGBoost oder LightGBM, Support Vector Machine, Neuronale Netzwerke (MLP)
 
 ## 🚀 Let's Connect!  
 
